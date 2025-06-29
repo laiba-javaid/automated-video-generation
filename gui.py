@@ -1888,8 +1888,8 @@ class AudioProcessor:
             self.update_status("Starting Instagram upload process...")
             
             # Instagram credentials
-            username = "hina7ty"
-            password = "hina24"
+            username = "Write your username here"
+            password = "Write your password here"
             
             # Setup Chrome with optimized options
             options = webdriver.ChromeOptions()
