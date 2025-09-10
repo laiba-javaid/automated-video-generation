@@ -15,7 +15,7 @@ This project automates the generation and publishing of personalized talking-hea
 Here’s a preview of the project in action:
 
 ![App Interface](assets/video-generation.jpeg)
-![App Interface](assets/screeshot2.jpeg)
+![App Interface](assets/secreeshot2.jpeg)
 ![App Interface](assets/screenshot3.jpeg)
 ![App Interface](assets/screenshot4.jpeg)
 ![App Interface](assets/screenshot5.jpeg)
