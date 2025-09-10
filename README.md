@@ -14,11 +14,17 @@ This project automates the generation and publishing of personalized talking-hea
 
 Here’s a preview of the project in action:
 
-![App Interface](assets/screenshot1.png)
+![App Interface](assets/video-generation.jpeg)
+![App Interface](assets/screenshot2.jpeg)
+![App Interface](assets/screenshot3.jpeg)
+![App Interface](assets/screenshot4.jpeg)
+![App Interface](assets/screenshot5.jpeg)
 *Main interface with automation controls.*
 
-![Generated Video Preview] https://github.com/laiba-javaid/automated-video-generation/blob/main/2025_05_19_2.12.17.mp4
+![Generated Video Preview] (https://drive.google.com/file/d/1TP7JX3CRq4vH1JLzAxURBTNg6brR2tCk/view?usp=sharing)
 *Example of a generated talking-head video.*
+
+---
 
 > 🔄 **Note**: While SadTalker is used as the core video generation engine, this project builds an **end-to-end pipeline** around it. The system is designed to automate the full process—from script to Instagram post—using Python and browser automation (e.g., Selenium opens Chrome, navigates to Speechma.io, downloads audio, and triggers SadTalker), which goes beyond the scope of SadTalker's original functionality.
 
