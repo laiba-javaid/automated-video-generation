@@ -21,8 +21,10 @@ Here’s a preview of the project in action:
 ![App Interface](assets/screenshot5.jpeg)
 *Main interface with automation controls.*
 
-![Generated Video Preview] (https://drive.google.com/file/d/1TP7JX3CRq4vH1JLzAxURBTNg6brR2tCk/view?usp=sharing)
+Generated Video Preview
 *Example of a generated talking-head video.*
+(https://drive.google.com/file/d/1TP7JX3CRq4vH1JLzAxURBTNg6brR2tCk/view?usp=sharing)
+
 
 ---
 
