@@ -10,6 +10,16 @@ This project automates the generation and publishing of personalized talking-hea
 3. **Video Generation**: Use SadTalker to create a talking-head video from an image and the synthesized audio.
 4. **Instagram Automation**: Automatically upload the generated video to Instagram Reels using browser automation.
 
+## 📸 Screenshots
+
+Here’s a preview of the project in action:
+
+![App Interface](assets/screenshot1.png)
+*Main interface with automation controls.*
+
+![Generated Video Preview](assets/screenshot2.png)
+*Example of a generated talking-head video.*
+
 > 🔄 **Note**: While SadTalker is used as the core video generation engine, this project builds an **end-to-end pipeline** around it. The system is designed to automate the full process—from script to Instagram post—using Python and browser automation (e.g., Selenium opens Chrome, navigates to Speechma.io, downloads audio, and triggers SadTalker), which goes beyond the scope of SadTalker's original functionality.
 
 ---
